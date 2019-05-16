@@ -1,7 +1,9 @@
 # Heroes of Pymoli Analysis
 
 * Used data from a fictional online game to analyze trends in users buyer habits include:
+
 ** average sale totals overall, by gender, and by age
+
 ** total sales by age group, individual users, and game item
 
 * Observed Trends:
